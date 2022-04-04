@@ -1,0 +1,18 @@
+nav{
+    background-color: rgb(128, 86, 255);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.perkenalan{
+    background-color: rgb(234, 228, 250);
+}
+
+.jumbotron{
+    padding: 2rem 1rem;
+}
+
+#about{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
