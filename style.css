@@ -1,3 +1,7 @@
+body{
+    min-height: 2000px;
+}
+
 nav{
     background-color: rgb(128, 86, 255);
     padding-top: 15px;
@@ -13,6 +17,12 @@ nav{
 }
 
 #about{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#works{
+    background-color: rgb(234, 228, 250);
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
